@@ -1,6 +1,6 @@
 ## Adex Business Website – Responsive Business Landing Page
 
-##About
+## About
 
 Adex Business Website is a responsive business landing page designed to showcase services, projects, and modern UI layout patterns.
 
